@@ -8,9 +8,9 @@ theme = "code"
 [params]
   homeTitle = "Dokumentasi Materi"
 homeDescription = """
-halaman ini berisi dokumentasi materi terkait perkuliahan di Kelas CI3 STMIK Widya Utama.
+halaman ini berisi dokumentasi materi terkait perkuliahan di Kelas CI3 Sistem Informasi STMIK Widya Utama.
 """
-  footer = "<a href=\"https://roynaldi3301.github.io\">❤ RoiDev</a>"
+  footer = "<a href=\"https://roynaldi3301.github.io\"> Made with ❤ by RoiDev</a>"
   feedbackLink = "mailto:prasbhara0604@gmail.com"
   [params.categoryColors]
     algoritma = "#DB1514"

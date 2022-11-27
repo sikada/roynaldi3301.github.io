@@ -62,10 +62,6 @@
               id="{{ .Title | urlize }}"
               category="{{ delimit .Params.categories "," }}"
               title="{{ .Title }}"
-              {{ if .Params.duration -}}
-              duration="{{ .Params.duration }}"
-              {{ end -}}
-              updated="{{ .Date.Format "2006-03-03" }}"
               tags="{{ delimit .Params.tags "," }}">
             </a>
           </li>

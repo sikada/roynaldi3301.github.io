@@ -40,14 +40,14 @@
  * need to specify which language the code is in, but if you wish, you can add
  * another class to the {@code <pre>} or {@code <code>} element to specify the
  * language, as in {@code <pre class="prettyprint lang-java">}.  Any class that
- * starts with "lang-" followed by a file extension, specifies the file type.
+ * /kd-algo/kd-algos with "lang-" followed by a file extension, specifies the file type.
  * See the "lang-*.js" files in this directory for code that implements
  * per-language file handlers.
  * <p>
  * Change log:<br>
  * cbeust, 2006/08/22
  * <blockquote>
- *   Java annotations (start with "@") are now captured as literals ("lit")
+ *   Java annotations (/kd-algo/kd-algo with "@") are now captured as literals ("lit")
  * </blockquote>
  * @requires console
  */

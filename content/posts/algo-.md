@@ -1,7 +1,7 @@
 ---
-title: ALGORITMA - .
+title: ALGORITMA - PENGANTAR ALGORITMA.
 date: 2022-09-08
-categories: [algoritma]
+categories: [Balgoritma]
 tags: [wika-purbasari, algoritma, ci3, materi]
 duration: 42:00
 ---

@@ -1,7 +1,7 @@
 # End your baseURL with a `/` trailing slash, e.g. `https://example.com/`.
 baseURL = "/"
 
-title = "Kelas CI3 | STMIK Widya Utama"
+title = "Kelas CI3 SI"
 languageCode = "en-us"
 theme = "code"
 
